@@ -1,0 +1,13 @@
+1|Joker|In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: "The Joker"|2019|Crime, Drama, Thriller
+2|Pulp Fiction|The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption|1995|Crime, Drama
+3|Abgeschnitten|Thriller set in the world of Forensic Pathology. Coroner Paul Herzfeld finds a capsule in the head of a heavily mutilated corpse, containing a phone number and single word: the name of his daughter|2018|Action, Crime, Horror
+4|Frozen II|Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom|2019|Animation, Adventure, Comedy
+5|When Lambs Become Lions|In the Kenyan bush, a small-time ivory dealer fights to stay on top while forces mobilize to destroy his trade. When he turns to his younger cousin, a conflicted wildlife ranger who hasn't been paid in months, they both see a possible lifeline|2018|Documentary
+6|21 Bridges|An embattled NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy|2019|Action, Crime, Drama
+7|Terminator: Dark Fate|Sarah Connor and a hybrid cyborg human must protect a young girl from a newly modified liquid Terminator from the future|2019|Action, Adventure, Sci-Fi
+8|Official Secrets|The true story of a British whistleblower who leaked information to the press about an illegal NSA spy operation designed to push the UN Security Council into sanctioning the 2003 invasion of Iraq|2019|Biography, Drama, Romance
+9|The Lion King|After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery|2019|Animation, Adventure, Drama
+10|Once Upon a Time ... in Hollywood|A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles|2019|Comedy, Drama
+11|The Irishman|A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa|2019|Biography, Crime, Drama
+12|Doctor Sleep|Years following the events of "The Shining," a now-adult Dan Torrance must protect a young girl with similar powers from a cult known as The True Knot, who prey on children with powers to remain immortal|2019|Drama, Fantasy, Horror
+13|Midway|The story of the Battle of Midway, told by the leaders and the sailors who fought it|2019|Action, Drama, History
