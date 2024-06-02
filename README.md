@@ -8,5 +8,5 @@ Cinema ticket program which allow a user to do the following:
 
 ![alt_text](https://github.com/Jorge36/CinemaCCT/blob/16b55b954fabc97563f8364465fe1e655c29b8f5/Testing/testing.png)
 
-In Testing folder, there is a txt file which has a link to a folder in drive. That folder contains a video about this app running on Netbeans.
+In Testing folder, there is a txt file which has a link to a folder in drive. That folder contains a video displaying this app running on Netbeans.
 
