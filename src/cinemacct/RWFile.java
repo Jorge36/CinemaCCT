@@ -25,10 +25,10 @@ import java.util.Scanner;
 public class RWFile {
     
     // Attributes which have the paths of the different files
-    private final String pathOfFileMovies = Paths.get(".") + "\\files\\movies.txt";
-    private final String pathOfFileOrders = Paths.get(".") + "\\files\\orders.txt";
-    private final String pathOfFilePrice = Paths.get(".") + "\\files\\price.txt";
-    private final String pathOfFilePayments = Paths.get(".") + "\\files\\payment.txt";
+    private final String pathOfFileMovies = Paths.get(".") + File.separator + "files" + File.separator + "movies.txt";
+    private final String pathOfFileOrders = Paths.get(".") + File.separator + "files" + File.separator + "orders.txt";
+    private final String pathOfFilePrice = Paths.get(".") + File.separator + "files" + File.separator + "price.txt";
+    private final String pathOfFilePayments = Paths.get(".") + File.separator + "files" + File.separator + "payment.txt";
     // Attribute with the separator used inside of the files to separate each register
     private final String separator = "\\|";
     
